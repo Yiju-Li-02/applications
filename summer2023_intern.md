@@ -99,6 +99,7 @@ Unfortunately, I currently do not have any offers.
 
 | Company Name | Position | Applied time |
 | ------------ | -------- | ------------ |
+| Holder       |          |              |
 
 
 
